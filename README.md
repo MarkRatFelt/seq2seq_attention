@@ -1,12 +1,12 @@
 # seq2seq_attention
 
-This code is an implementation of the model proposed here: link.
+This code is an implementation of the model proposed here: https://blog.altoros.com/optical-character-recognition-using-one-shot-learning-rnn-and-tensorflow.html.
 
 The input data has arithmetic data instead of receipt data; however, with the right dataset, it would work as well. 
 
 The problem is a typical sequence to sequence problem, with the difference of one attention layer. 
 
-I took the data set from here: link. 
+I took the data set from here: https://github.com/drspiffy/Concurrence. 
 
 With a receipt data, the X-Axis would be the line read by the OCR and the ground truth, the output data, as shown in the meetup. 
 
